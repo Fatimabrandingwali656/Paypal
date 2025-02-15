@@ -1,0 +1,65 @@
+[17-Jan-2025 11:49:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ghani@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:160
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(160): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 160
+[17-Jan-2025 11:50:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ghani@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:160
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(160): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 160
+[17-Jan-2025 11:50:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ghani@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:160
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(160): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 160
+[17-Jan-2025 13:03:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ghani@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:15
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(15): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 15
+[17-Jan-2025 13:03:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ghani@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:15
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(15): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 15
+[17-Jan-2025 13:13:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'zarwafatima27@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:15
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(15): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 15
+[17-Jan-2025 13:13:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'zarwafatima27@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:15
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(15): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 15
+[17-Jan-2025 13:13:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'zarwafatima27@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:15
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(15): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 15
+[17-Jan-2025 13:13:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'zarwafatima27@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:15
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(15): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 15
+[17-Jan-2025 13:14:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'zarwafatima27@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:15
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(15): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 15
+[17-Jan-2025 13:15:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'zarwafatima27@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:15
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(15): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 15
+[17-Jan-2025 13:15:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'ghani@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:15
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(15): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 15
+[17-Jan-2025 13:15:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'zarwafatima27@gmail.com' for key 'users.email' in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php:15
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php(15): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/PAY_PAL/signup.php on line 15
